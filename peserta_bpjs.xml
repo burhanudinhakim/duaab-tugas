@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<data>
+  <peserta_bpjs>
+    <nik>897</nik>
+    <nokk>987</nokk>
+    <nama>aku</nama>
+    <tanggal_lahir>2015-12-08</tanggal_lahir>
+    <telp>8765</telp>
+    <alamat>jjhhg</alamat>
+    <pekerjaan>jhjhf</pekerjaan>
+    <jml_iuran>78000</jml_iuran>
+    <nama_wali>jhg</nama_wali>
+    <alamat_wali>jhg</alamat_wali>
+    <telp_wali>09654</telp_wali>
+    <hub_wali>ngfdfgk,</hub_wali>
+  </peserta_bpjs>
+  <peserta_bpjs>
+    <nik>765</nik>
+    <nokk>678</nokk>
+    <nama>nsjdjdh</nama>
+    <tanggal_lahir>2015-12-13</tanggal_lahir>
+    <telp>654</telp>
+    <alamat>jsdjhdsj</alamat>
+    <pekerjaan>jjhgdh</pekerjaan>
+    <jml_iuran>7854</jml_iuran>
+    <nama_wali>msdnd</nama_wali>
+    <alamat_wali>sjdhjhsgd</alamat_wali>
+    <telp_wali>765456</telp_wali>
+    <hub_wali>msndbsdv</hub_wali>
+  </peserta_bpjs>
+</data>
